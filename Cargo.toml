@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-distribution-release-engineering"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS distribution-release-engineering component - package_infra"
+
+[lib]
+name = "distribution_release_engineering"
+path = "src/lib.rs"
